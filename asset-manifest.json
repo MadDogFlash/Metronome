@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MadDogFlash/Metronome/static/css/main.26d66633.chunk.css",
+    "main.js": "/MadDogFlash/Metronome/static/js/main.1627c833.chunk.js",
+    "main.js.map": "/MadDogFlash/Metronome/static/js/main.1627c833.chunk.js.map",
+    "runtime-main.js": "/MadDogFlash/Metronome/static/js/runtime-main.4620a6b8.js",
+    "runtime-main.js.map": "/MadDogFlash/Metronome/static/js/runtime-main.4620a6b8.js.map",
+    "static/js/2.e22a46a7.chunk.js": "/MadDogFlash/Metronome/static/js/2.e22a46a7.chunk.js",
+    "static/js/2.e22a46a7.chunk.js.map": "/MadDogFlash/Metronome/static/js/2.e22a46a7.chunk.js.map",
+    "index.html": "/MadDogFlash/Metronome/index.html",
+    "precache-manifest.fbd06bc5ce16f72d02bc3748ac12ef4f.js": "/MadDogFlash/Metronome/precache-manifest.fbd06bc5ce16f72d02bc3748ac12ef4f.js",
+    "service-worker.js": "/MadDogFlash/Metronome/service-worker.js",
+    "static/css/main.26d66633.chunk.css.map": "/MadDogFlash/Metronome/static/css/main.26d66633.chunk.css.map",
+    "static/js/2.e22a46a7.chunk.js.LICENSE.txt": "/MadDogFlash/Metronome/static/js/2.e22a46a7.chunk.js.LICENSE.txt",
+    "static/media/click1.wav": "/MadDogFlash/Metronome/static/media/click1.7a7930a2.wav",
+    "static/media/click2.wav": "/MadDogFlash/Metronome/static/media/click2.fe0ded65.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4620a6b8.js",
+    "static/js/2.e22a46a7.chunk.js",
+    "static/css/main.26d66633.chunk.css",
+    "static/js/main.1627c833.chunk.js"
+  ]
+}
